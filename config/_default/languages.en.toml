@@ -1,0 +1,21 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Christoph Stäbler"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+  description = "IT Architect & Software Engineer"
+
+[params.author]
+  name = "Christoph Stäbler"
+  image = "img/author.jpg"
+  headline = "IT Architect & Software Engineer"
+  bio = "Software Engineer with an urge to clean code and new technologies"
+  links = [
+    { github = "https://github.com/creydr" },
+    { linkedin = "https://www.linkedin.com/in/christophstaebler/" },
+    { stackoverflow = "https://stackoverflow.com/users/1560953/chresse" },
+  ]
